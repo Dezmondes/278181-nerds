@@ -262,10 +262,7 @@ textarea {
 }
 .slider-right-column:nth-child(2) {
     background:url(../img/slider-design-img.png) no-repeat;
-/*
-    width:760px;
-        height:431px;
-*/
+
 }
 
 .slider-column-design {
